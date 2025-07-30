@@ -1,0 +1,3 @@
+interface TaxPayer {
+    double calculateTax();
+}
